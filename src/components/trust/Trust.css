@@ -1,0 +1,24 @@
+.trustby{
+    width: 868px;
+    height: 251px;
+    /* border: 2px solid black; */
+    margin-left: 330px;
+    display: flex;
+    justify-content: center;
+}
+.trustby h3{
+    margin-top: 100px;
+    font-weight: 90;
+    position: absolute;
+    top: 730px;
+}
+
+.logolar{
+    width: 862px;
+    height: 31px;
+    /* border: 2px solid black; */
+    display: flex;
+    align-items: center;
+    margin-top: 140px;
+    gap: 100px;
+}
